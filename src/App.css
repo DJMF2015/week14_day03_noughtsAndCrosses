@@ -21,6 +21,34 @@
 .App-link {
   color: #61dafb;
 }
+table{
+	margin: auto;
+}
+			td{
+				width:200px;
+				height:200px;
+				//background :beige;
+
+
+			}
+			.vertical {
+				border-left: 2px solid black;
+				border-right: 2px solid black;
+			}
+			.horizontal {
+				border-top : 2px solid black;
+				border-bottom: 2px solid black;
+			}
+			.vertical2 {
+				border-left: 2px solid black;
+				border-right: 2px solid black;
+			}
+
+
+			.vertical3 {
+				border-left: 2px solid black;
+				border-right: 2px solid black;
+			}
 
 @keyframes App-logo-spin {
   from {
